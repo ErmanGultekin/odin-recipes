@@ -1,0 +1,10 @@
+* {
+    background-color:beige;
+}
+
+a button{
+    font-size: 16px;
+    font-weight: 500;
+    box-shadow: black;
+    margin-bottom: 10px;
+}
